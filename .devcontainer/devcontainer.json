@@ -1,0 +1,9 @@
+{
+    "name": "Go-time",
+    "image": "mcr.microsoft.com/vscode/devcontainers/go",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": ["golang.go"]
+      }
+  }}
